@@ -17,6 +17,8 @@
 
 <bean name="/list_cars.html" class="springmvc.web.CarListController"/>
 
+<bean name="/success.html" class="springmvc.web.SuccessController"/>
+
 <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
     <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
     <property name="prefix" value="/jsp/"/>

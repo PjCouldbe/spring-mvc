@@ -1,9 +1,12 @@
 springmvc\validator\CarValidator.class
 springmvc\web\CarNewController.class
 springmvc\web\CarListController.class
+springmvc\model\User.class
+springmvc\web\LoginController.class
 springmvc\service\BrandManager.class
 springmvc\model\Car.class
 springmvc\web\HelloWorldController.class
 springmvc\web\HelloWorldController$User.class
 springmvc\service\CarManager.class
 springmvc\model\Brand.class
+springmvc\web\SuccessController.class
